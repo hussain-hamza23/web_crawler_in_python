@@ -1,2 +1,16 @@
-test_*
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
 .venv
+
+# Test Files
+test_*
+
+# Generated reports
+report.json
